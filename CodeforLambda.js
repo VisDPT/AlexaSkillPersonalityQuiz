@@ -53,8 +53,8 @@ const animalList = {
         audio_message: "You're calm and laid back just like the vibe in Los Angeles, California",
         description: "You're calm and laid back just like the vibe in Los Angeles, California. Your positive bright nature matches that of the the sun and beach. You love to eat health and stay fit. You work hard but also know it's important to rest and recharge.",
         img: {
-            smallImageUrl: "https://www.flickr.com/photos/35929830@N05/10519692053/",
-            largeImageUrl: "https://www.flickr.com/photos/35929830@N05/10519692053/"
+            smallImageUrl: "https://ibb.co/tmpNDRG",
+            largeImageUrl: "https://ibb.co/HKNHCP0"
         }
     },
     newyorkcity: {
@@ -63,8 +63,8 @@ const animalList = {
         audio_message: "You are a busy bee like everyone in the city that never sleeps! New York City!",
         description: "You are a busy bee like everyone in the city that never sleeps! New York City! You talk fast, you work hard, and you love bagels and pizzas! You know that being late is not an option and you are always 5 minutes early to everything.",
         img: {
-            smallImageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLwdgGPBJe95KgobIUHEuHB2YrYjF3qxpBva9CpRvy8Jwf5xP",
-            largeImageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLwdgGPBJe95KgobIUHEuHB2YrYjF3qxpBva9CpRvy8Jwf5xP"
+            smallImageUrl: "https://ibb.co/WVcpNmF",
+            largeImageUrl: "https://ibb.co/PWzTWff"
         }
     },
 
@@ -75,8 +75,8 @@ const animalList = {
         audio_message: "You want to keep it spicy like they do in Miami, Florida.",
         description: "You want to keep it spicy like they do in Miami, Florida. You like to relax, have fun, and have a good time! You don't stress too much about work and live it up.  You enjoy that beach life and experiencing culture.",
         img: {
-            smallImageUrl: "https://www.perfectstayz.com/blogs/wp-content/uploads/2018/04/miami-vacation-pictures.jpg",
-            largeImageUrl: "https://www.perfectstayz.com/blogs/wp-content/uploads/2018/04/miami-vacation-pictures.jpg"
+            smallImageUrl: "https://ibb.co/cTV5JPb",
+            largeImageUrl: "https://ibb.co/cySjTqt"
         }
     }
 };
